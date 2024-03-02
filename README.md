@@ -2,4 +2,5 @@
 
 # output
 
-![1](https://github.com/jawwadturk/TicketApp-BanoQabil/assets/107758631/9a05f8d3-8d9f-45a2-897b-fdc438dd385f)
+![image](https://github.com/jawwadturk/TicketApp-BanoQabil/assets/107758631/c56ead19-d5b3-4d17-a8e0-2276c444c88b)
+
